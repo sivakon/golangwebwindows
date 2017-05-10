@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Changing the complete website files to run on windows
 # gowebapp
 Simplistic Go Web App
 
