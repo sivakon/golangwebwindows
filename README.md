@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gowebapp
 Simplistic Go Web App
 
@@ -22,3 +23,7 @@ $ go get github.com/grisha/gowebapp
 ```
 $ $GOPATH/bin/gowebapp
 ```
+=======
+# golangwebwindows
+Running a full website on Windows using golang with no web frameworks
+>>>>>>> d123eda12eddc81857801047aadbf5e962502e2a
