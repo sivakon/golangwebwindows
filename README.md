@@ -1,5 +1,6 @@
-# Changing the complete website files to run on windows
-# gowebapp
+
+# golangwebwindows - Running a complete website from Windows without frameworks
+
 Simplistic Go Web App
 
 Read about it [here](https://grisha.org/blog/2017/04/27/simplistic-go-web-app/).
@@ -23,7 +24,5 @@ $ go get github.com/grisha/gowebapp
 ```
 $ $GOPATH/bin/gowebapp
 ```
-=======
-# golangwebwindows
-Running a full website on Windows using golang with no web frameworks
->>>>>>> d123eda12eddc81857801047aadbf5e962502e2a
+### Need to complete: Create a good looking form and enter all the entries into the database.
+
