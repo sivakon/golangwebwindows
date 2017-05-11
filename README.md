@@ -22,7 +22,7 @@ $ go get github.com/grisha/gowebapp
 
 1. That's it. You should now be able to run:
 ```
-$ $GOPATH/bin/gowebapp
+$ $GOPATH/bin/gowebapp # No need for this, gowebapp.exe is generated in the same folder.
 ```
 ### Need to complete: Create a good looking form and enter all the entries into the database.
 
